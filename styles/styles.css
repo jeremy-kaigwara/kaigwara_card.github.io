@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Gulzar', serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #001f7d;
+}
+i{
+    margin: 10px;
+    color: #0000b3;
+}
+#card{
+    border: 2px solid black;
+    width:30%;
+    border-radius: 20px;
+background-color: white;
+}
+img{
+    /* align-items: center; */
+}
+ul{
+    list-style-type: none;
+}
+
